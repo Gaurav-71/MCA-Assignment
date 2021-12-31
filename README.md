@@ -32,4 +32,4 @@ Parallel Compression took 18.91817283630371 seconds
 
 `pip install numpy`
 
-`pip install -U matplotlib`
+`pip install matplotlib`
