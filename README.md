@@ -24,7 +24,7 @@ Parallel Compression took 3.9175472259521484 seconds
 
 ```
 
-![comparison graph](./ComparisonGraph.png)
+![comparison graph](./NewComparisonGraph.png)
 
 ## Installation Steps
 
