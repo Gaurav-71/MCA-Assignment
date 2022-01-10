@@ -9,6 +9,10 @@
 3. Divya, 1MS18CS043
 4. Gaurav V, 1MS18CS046
 
+## Video Explanation
+
+https://youtu.be/TWYq8GCnWMw
+
 ## Results
 
 ```
