@@ -2,6 +2,8 @@
 
 7th Semester Multicore Architecture assignment.
 
+The shift to multicore computing is pervasive throughout most industries, and the image and machine vision industries are no exception. This could improve throughput and reduce response times for camera systems dealing with growing amounts of data. Images are processed using two or more computer cores in multicore image processing. In other words, the processing of a task from an imaging system is shared among numerous cores. Moving to a multicore system has the overall benefit of reducing response time and increasing throughput in an imaging system. Multicore allows users to make use of the latest PC processor designs, allowing algorithms and software to run quicker and perform more tasks. The increasing computational capacity and programmability of multi-core architectures offer promising opportunities for parallelizing image compression and processing methods.
+
 ## Team Members
 
 1. Aravind Shreyas Ramesh, 1MS18CS046
