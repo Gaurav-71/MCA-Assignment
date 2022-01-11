@@ -13,7 +13,7 @@ The shift to multicore computing is pervasive throughout most industries, and th
 
 ## Assignement Report
 
-View the assignment report [here](https://github.com/Gaurav-71/Multicore-Image-Compression/blob/main/Assignment%20Report.pdf)
+View the assignment report [here](https://github.com/Gaurav-71/Multicore-Image-Compression/blob/main/Assignment%20Report.pdf).
 
 ## Video Explanation
 
