@@ -11,6 +11,10 @@ The shift to multicore computing is pervasive throughout most industries, and th
 3. Divya, 1MS18CS043
 4. Gaurav V, 1MS18CS046
 
+## Assignement Report
+
+View the assignment report [here](./Assignment Report.pdf)
+
 ## Video Explanation
 
 https://youtu.be/TWYq8GCnWMw
